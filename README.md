@@ -1,6 +1,7 @@
 ## Oii eu sou o Gustavo Braga
 - 👩‍💻 Dev júnior.
 - 🐍 Me aperfeiçoando em Python
+- 🎭 Tenho bastante experiencia com Web Desin
 
 <div align="center">
   <a href="https://github.com/gustavobraga105">
