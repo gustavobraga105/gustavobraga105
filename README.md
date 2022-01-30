@@ -1,7 +1,7 @@
-## Oii eu sou o Gustavo Braga
+## Hi i'm Gustavo Braga
 - 👩‍💻 Dev júnior.
-- 🐍 Me aperfeiçoando em Python
-- 🎭 Tenho bastante experiencia com Web Desin
+- 🐍 Improving myself in python.
+- 🎭 I have experience in web design.
 
 <div align="center">
   <a href="https://github.com/gbgustavobraga">
