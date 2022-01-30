@@ -1,4 +1,4 @@
-## Hi i'm Gustavo Braga
+## Hi i'm Gustavo Braga, developer and web design.
 - 👩‍💻 Dev júnior.
 - 🐍 Improving myself in python.
 - 🎭 I have experience in web design.
