@@ -1,4 +1,4 @@
-## Hi i'm Gustavo Braga, developer and web design.
+## Hi i'm Gustavo Braga, developer.
 - 👩‍💻 Dev júnior.
 - 16 years
 - 🐍 Improving myself in python and Js.
